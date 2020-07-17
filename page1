@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body style="background-color: #03e3fc;">
+<body>
+<nav>
+<ul>
+	<li><a href="file:///C:/Users/Susan/Documents/HTML/First%20Website/page1.html">Home</a></li>
+	<li><a href="file:///C:/Users/Susan/Documents/HTML/First%20Website/page2.html">My First Page</a></li>
+	<li><a href="game">Play Ball</a></li>
+	<li><a href="file:///C:/Users/Susan/Documents/HTML/First%20Website/page4.html">Coding in progress</a></li> 
+</ul>
+<h1> Welcome to my first website. </h1>
+<p> It’s official. Computer coding is cool! Unlocking creativity, opening doors, fostering engagement and empowering youth; coding is way more fun than you might have thought. You can code, too!</p>
+<h2>Five reasons coding is important:</h2>
+<ol>
+<li>Teaches logical thinking</li>
+<li>Fosters creativity</li>
+<li>Helps with math skills - visualize abstract concepts, apply math to real-world situations, and makes math fun and creative</li>
+<li>Improves writing by praciticing how to plan and organize thoughts</li>
+<li>Builds confidence to solve problems</li>
+</ol>
+
+<h3>I have been learning the following code: </h3>
+<ul>
+<li> HTML - Hyper Text Markup Language </li>
+<li> CSS - Cascading Style Sheets </li>
+<li> JavaScript </li>
+</ul>
+
+<h3>Disclaimer: </h3>
+<p> I tried to go too big, too soon. That wasn't working, so I scaled back to keep things simple for now. Check back for updates.</p>
+
+<img src="https://img.theweek.in/content/dam/week/news/sci-tech/images/2019/10/9/live-coding.jpg">
+
+
+https://img.theweek.in/content/dam/week/news/sci-tech/images/2019/10/9/live-coding.jpg
