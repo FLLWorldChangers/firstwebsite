@@ -1,0 +1,20 @@
+h1{
+color: blue;
+}  
+
+body{
+background-color: pink;
+}
+
+<body style="background-color: #03e3fc;">
+
+
+html,body {
+  height: 100%;
+  width: 100%;
+}
+#MySVG {
+  height: 100%;
+  width: 100%;
+  background: black;
+}
